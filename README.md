@@ -72,6 +72,14 @@ Based on the analysis, the company should consider:
 - Excel workbook containing the cleaned data, data quality checks, PivotTable analysis, dashboard, and findings.
 - Dashboard screenshots.
 - Findings and business recommendations.
+  
+## Dashboard Preview
+
+![Telco Customer Churn Dashboard](images/Telco_Customer_Churn_Dashboard.png)
+
+## Findings & Recommendations
+
+![Telco Customer Churn Findings](images/Telco_Customer_Churn_Findings.png)
 
 ## Dataset
 
